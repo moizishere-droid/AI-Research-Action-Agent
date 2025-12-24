@@ -4,3 +4,6 @@ langchain-openai
 langchain-community
 duckduckgo-search
 python-dotenv
+langchain-core
+datetime
+os
