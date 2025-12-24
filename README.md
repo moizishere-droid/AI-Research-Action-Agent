@@ -1,7 +1,5 @@
 # 🤖 AI Agent Tool Kit
 
----
-
 ## 🎯 What Does It Do?
 
 An intelligent AI agent that can:
